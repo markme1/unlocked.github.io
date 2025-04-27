@@ -1,0 +1,5 @@
+title: Mark ROMs
+description: Just a simple Jekyll website
+baseurl: "" # leave it empty if hosted at root
+url: "https://unlocked.github.io" # your live site URL
+theme: minima
